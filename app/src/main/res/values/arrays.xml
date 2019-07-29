@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mainspinner">
+
+        <item>weight</item>
+        <item>length</item>
+        <item>temperature</item>
+        <item>time</item>
+
+        </string-array>
+
+</resources>
